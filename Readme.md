@@ -1,5 +1,6 @@
 # This is a repo for a random patch generator for Korg Minilogue XD
 It's built using the PureData app (tested on 0.51-4 version on MacOS). 
+This code is licences under Apache License Version 2.0 - so you can use it accordingly.
 
 ### How to run
 * Download the PureData app from https://puredata.info/downloads
