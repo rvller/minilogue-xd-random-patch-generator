@@ -24,7 +24,8 @@ You can also try to use this generator with Minilogue (original), Monologue, Pro
 * You can switch on/off the randomization for specific parts ti your taste:
   * "sync/ring/cross mod rand"
   * "enable lfo rand"
-  * "enable multiengine rand"  
+  * "enable multiengine rand"
+  * "porta rand"
 
 ### Feedback
 
