@@ -25,4 +25,5 @@ Feel free to drop your suggestions at rvller@gmail.com
 
 ### Useful links
 
+Screenshots with help - https://github.com/rvller/minilogue-xd-random-patch-generator/wiki
 Korg Minologue XD Owner's guide (with Midi implementation chart) - https://cdn.korg.com/us/support/download/files/1362ee55daa0ec780da684b9ad9ad99b.pdf
