@@ -116,11 +116,16 @@
 #X text 250 703 cross mod;
 #X obj 58 677 ctlout 80;
 #X obj 248 680 ctlout 41;
+#X obj 109 952 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
+1;
+#X obj 73 796 spigot;
+#X obj 81 847 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X text 38 976 porta rand;
 #X connect 0 0 1 0;
 #X connect 0 0 2 0;
 #X connect 0 0 6 0;
 #X connect 0 0 11 0;
-#X connect 0 0 14 0;
 #X connect 0 0 17 0;
 #X connect 0 0 18 0;
 #X connect 0 0 23 0;
@@ -136,6 +141,7 @@
 #X connect 0 0 81 0;
 #X connect 0 0 99 0;
 #X connect 0 0 100 0;
+#X connect 0 0 111 0;
 #X connect 1 0 4 0;
 #X connect 2 0 3 0;
 #X connect 5 0 3 2;
@@ -219,3 +225,6 @@
 #X connect 101 0 104 0;
 #X connect 102 0 103 0;
 #X connect 104 0 109 0;
+#X connect 110 0 111 1;
+#X connect 111 0 112 0;
+#X connect 112 0 14 0;
