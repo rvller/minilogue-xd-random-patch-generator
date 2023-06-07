@@ -6,7 +6,7 @@ This code is licences under Apache License Version 2.0 - so you can use it accor
 Playing the synth is fun, but sometimes you stuck with a sound design, so this generator allows you to just press **TAB** button and it'll create a totally random patch! You can tune it, save and have a fun.
 Some synths have the randomize option (even newer Korg's ones have it) built-in, but not the Minilogue XD.
 
-You can also try to use this generator with Minilogue (original), Monologue, Prologue - I bet i'll generate something, but probably not all Midi CC events are the same, but you can easily change that according to the Midi implementation chart for your device.
+You can also try to use this generator with Minilogue (original), Monologue, Prologue - I bet it'll generate something, but probably not all Midi CC events are the same, but you can easily change that according to the Midi implementation chart for your device.
 
 ### How to run
 * Download the PureData app from https://puredata.info/downloads
