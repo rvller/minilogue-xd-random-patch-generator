@@ -11,8 +11,8 @@ You can also try to use this generator with Minilogue (original), Monologue, Pro
 ### How to run
 * Download the PureData app from https://puredata.info/downloads
 * Download the minilogue-xd-random-patch-generator.pd from the Git repo
-* Open the minilogue-xd-random-patch-generator.pd file in PureData
 * Connect the Korg Minilogue XD to your computer via USB cable
+* Open the minilogue-xd-random-patch-generator.pd file in PureData
 * Configure the Midi channel on Minilogue XD (Channel 5 is used by default)
   * You can change the Midi channel in the minilogue-xd-random-patch-generator.pd file in the "Midi channel element" (by pressing cmd+e to edit PD file)
 * Configure Midi output device in Puredata - Media -> Midi settings... -> Output devices -> "minilogue XD SOUND"
