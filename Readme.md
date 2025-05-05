@@ -27,6 +27,10 @@ You can also try to use this generator with Minilogue (original), Monologue, Pro
   * "enable multiengine rand"
   * "porta rand"
 
+### Troubleshooting
+* PD is running, USB cable is connected, but patch is not changed on Minilogue XD - try checking the settings on Korg 1) "MIDI Ch" set the same as in PD 2) "MIDI Rx CC" set to "On"
+
+
 ### Feedback
 
 Feel free to drop your suggestions at rvller@gmail.com
